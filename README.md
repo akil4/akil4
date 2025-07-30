@@ -11,7 +11,7 @@ Dedicated to writing clean, efficient, and maintainable code with a minimalist d
 Actively seeking opportunities to apply technical skills in a professional environment, contribute to meaningful software solutions, and continue advancing as a developer through continuous learning and practical experience.
 
 *   🌍  I'm based in Chennai, India
-*   🖥️  See my portfolio at [Portfolio](http://akil4.vercel.app)
+*   🖥️  See my portfolio at [akil4.vercel.app](http://akil4.vercel.app)
 *   ✉️  You can contact me at [akils4388@gmail.com](mailto:akils4388@gmail.com)
 *   🚀  I'm currently working on [MotoLive](http://motolive.vercel.app)
 *   🧠  I'm learning MERN Stack
